@@ -1,0 +1,10 @@
+A través de esta sesión práctica acercaremos a los participantes al uso de las técnicas y métodos básicos para analizar y procesar datos. Se aprenderá el uso del lenguaje de programación Python para el análisis de datos a través de las librerías Pandas, Scikit-learn and PySpark. Se explorará diferentes tipos de datos y métodos para su tratamiento.
+Agenda Introducción al análisis de datos
+Adquisición de datos con Pandas
+Pre procesamiento de datos y análisis estadístico básico
+Visualización de datos
+Principios de Machine Learning
+Clasificación usando Scikit-learn
+Procesamiento de datos en memoria
+Procesando datos con Apache Spark
+
